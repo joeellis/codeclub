@@ -21,12 +21,10 @@ Also, it is completely ok for next month's topic to be a repeat of the current m
 ## The Culture
 Codeclub has should have a culture about it that meets the following parameters:
 
-* Members should keep conversation to the topic at hand. This is one of the main reasons the club exists. I'm sure your off-topic conversation is super interesting, but there are many, many areas at Nola Hack Night to talk about other things, so no need to do it at Codeclub.
-* Members should feel free to ask and answer questions.  This should be a place to put your ego aside and just learn.  Don't look down on others because they may not know something you do. 
-* Share what you learn.  There will be a space in this repo for a given month for folks to share learning resources, links, tips, etc. of the topic at hand.  Let's actively use this resource.
-* In general, members should be nice or leave.  Codeclub should be a place of active learning, not a place of arguing.  If you want to argue, that's fine, and I really hope you win;  but take it outside.
-
-Members who are constantly breaking conduct rules will be told in the most sincerest of manners to GTFO.
+* Codeclub is for learning. Ask questions. Help others. Participants are there to teach themselves and each other so that we can all grow.
+* Codeclub is not for debating. There are people trying to learn stuff over here!
+* Codeclub should be accessible. You might already know a fair amount about the topic, but most of us will be n00bs. We gotta learn the n00b stuff first!
+* Don't forget to share! Share all the time! There will be a space in this repo for a given month for folks to share learning resources, links, tips, etc. of the topic at hand. So when you leave Hack Night, keep on sharing!
 
 ## Where / When Is It?
 
