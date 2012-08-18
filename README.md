@@ -30,7 +30,7 @@ Members who are constantly breaking conduct rules will be told in the most since
 
 ## Where / When Is It?
 
-Wherever we hold Nola Hack Night, which is currently at Launchpad on Tuesdays from 7pm to whenever.  Nola Hack Night will start at 7:30 to give folks time to arrive and be held in the back conference room.  If the room gets filled, we will open up the side doors and use the family room (the place with the TV and couches).
+Wherever we hold Nola Hack Night, which is currently at Launchpad on Tuesdays from 7pm to whenever.  Nola Hack Night will start at 7:30 to give folks time to arrive and be held in the back conference room.  If the room gets filled, we will open up the side doors and use the family room (the place with the TV and couches).  Codeclub will officially end at 9pm, although you're welcome to stay and continue on if you're on a roll.
 
 
 ## FAQ
