@@ -1,29 +1,32 @@
 ## What's Codeclub?
 
-Codeclub is a new part of Nola Hack Night for those folks who would like learn more about topics they rarely have a chance to work with.  We pick a topic for the month, and, much like study group, we help each other learn a bit more of the topic at hand.
+Codeclub is a new part of Nola Hack Night for folks looking to learn more about tech that they rarely have a chance to work with.  We pick a tech oriented topic for the month, check our egos at the door, and, much like study group, we collaboratively help each other learn a bit more about that tech.  
 
 ## How It Works
 Each month, the members of Codeclub will pick a topic for dedicated study.  The topic may be a language, a framework, design concepts, really anything that fits under the following general guidelines:
 
-* The topic should ideally be one that the members have have relatively little experience in working with, but have heard of before (Google's Go Language, Clojure, R, Meteor framework, etc.)
-* The topic should be something that, if learned, would be generally useful to the members' profession.
+* The monthly topic should ideally be one that the members have have relatively little experience in working with, but have heard of before (Google's Go Language, Clojure, R, Meteor framework, etc.)
+* The monthly topic should provide some sort of general utility to our own professions.
 * Highly dependent, but in general, the topic should be something that is open source, so all may easily take part in learning it.
+
+We hold Codeclub in a slightly cordoned off area to cut out distractions and help improve focus to the topic at hand.
+
 
 ## How Do We Pick New Topics
 Before the month is out, we will make a VoteIt (www.voteit.com) vote to decide what the next topic of the month will be. 
 
-Votes will last one week, contain no more than 10 options.  Please read the topic guidelines before adding an option.
+Votes will last one week, contain no more than 10 options.  Please read the topic guidelines before adding your own option to make sure it qualifies.
 
 The overall majority will rule this vote, with ties being settled by myself, Joe Ellis, on the basis on which option best fits the topic guidelines. 
 
 Also, it is completely ok for next month's topic to be a repeat of the current month if that's what wins the vote.
 
 ## The Culture
-Codeclub has should have a culture about it that meets the following parameters:
+Codeclub should have a culture that meets the following parameters:
 
 * Codeclub is for learning. Ask questions. Help others. Participants are there to teach themselves and each other so that we can all grow.
-* Codeclub is not for debating. There are people trying to learn stuff over here!
-* Codeclub should be accessible. You might already know a fair amount about the topic, but most of us will be n00bs. We gotta learn the n00b stuff first!
+* Codeclub is not for big debates or arguments. There are people trying to learn stuff over here!
+* Codeclub should be accessible. It is for the n00bs of the monthly topic.  If you already know a fair amount about the topic, help us learn the basics!
 * Don't forget to share! Share all the time! There will be a space in this repo for a given month for folks to share learning resources, links, tips, etc. of the topic at hand. So when you leave Hack Night, keep on sharing!
 
 ## Where / When Is It?
@@ -41,7 +44,7 @@ Yes, if you'd like to come by and help give us a head start, it will always be g
 
 
 ##### What if I don't like the topic of the month?
-Then you probably should not attend Codeclub meetings that month.  It's, of course, impossible to please everyone all the time, so instead of trying to do that, rotating the topic monthly should be frequent enough that eventually there should be a topic you'd be interested in.  I'd
+Then you probably should not attend Codeclub meetings that month.  It's, of course, impossible to please everyone all the time, so instead of trying to do that, we rotate the topic monthly, which hopefully is frequent enough that eventually we'll have a topic you'd be interested in. 
 
 
 ##### Can I make suggestions for the group?
